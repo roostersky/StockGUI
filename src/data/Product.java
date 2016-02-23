@@ -1,12 +1,10 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/**
+ * Simple stock control application with GUI (JAVA)
  */
 package data;
 
 /**
- *
+ * Product class resembles physical products. Each product has unique number, name and quantity.
  * @author mario
  */
 public class Product {
