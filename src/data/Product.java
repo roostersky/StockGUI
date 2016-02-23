@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /**
  * Simple stock control application with GUI (JAVA)
  */
@@ -5,8 +6,15 @@ package data;
 
 /**
  * Product class resembles physical products. Each product has unique number, name and quantity.
+=======
+
+package data;
+
+/**
+>>>>>>> origin/master
  * @author mario
  */
+ 
 public class Product {
     
     //Instance variables
